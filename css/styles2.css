@@ -7,8 +7,10 @@ body  {
 
 p  {
   font-family: "Times New Roman", Times, serif;
+  font-size: 5px
 }
 h3  {
-  color: #6b8576;
+  color: #041933;
   text-align: center;
+  font-size: 30px
 }
