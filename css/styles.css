@@ -1,13 +1,14 @@
 body  {
-  background-color: #235a9e;
+  background-color: #AFC5E0;
   text-align: center;
+  font-family: sans-serif;
 }
 p  {
   font-family: "Lucida Console", Monaco, monospace;
   color: #041933;
 }
 
-h3  {
+h2  {
   color: #4e6178;
   font-family: sans-serif;
 }
